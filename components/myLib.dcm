@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP3426
+D Analog-to-Digital Converter
+$ENDCMP
+#
+#End Doc Library
