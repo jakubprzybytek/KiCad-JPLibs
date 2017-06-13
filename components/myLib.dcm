@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LTV-357Ts
+D DC Optocoupler, Vce 35V, CTR 50%, MFSOP6
+K NPN DC Optocoupler
+$ENDCMP
+#
 $CMP MCP3426
 D Analog-to-Digital Converter
 $ENDCMP
